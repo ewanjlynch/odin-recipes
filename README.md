@@ -1,0 +1,1 @@
+A practice project to consolidate HTML skills
